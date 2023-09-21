@@ -4,13 +4,6 @@ A lightweight HTTP file server written in C, leveraging the power of `libevent`.
 
 ![Demo](./assets/demo2.gif)
 
-## Table of Contents
-
-- [Technical Details](#technical-details)
-- [Dependencies](#dependencies)
-- [How to Compile](#how-to-compile)
-- [Usage](#usage)
-
 ## Technical Details
 
 This project consists of a standalone HTTP file server that can serve files over a network. It is built using C and libevent.
