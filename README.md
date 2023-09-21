@@ -2,7 +2,7 @@
 
 A lightweight HTTP file server written in C, leveraging the power of `libevent`.
 
-![Demo](./assets/demo.gif)
+![Demo](./assets/demo2.gif)
 
 ## Table of Contents
 
